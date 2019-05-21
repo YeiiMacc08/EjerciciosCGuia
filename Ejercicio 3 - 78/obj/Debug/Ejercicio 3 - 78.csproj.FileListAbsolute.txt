@@ -1,0 +1,6 @@
+C:\Users\Yeison\source\repos\EjerciciosC\Ejercicio 3 - 78\bin\Debug\Ejercicio 3 - 78.exe.config
+C:\Users\Yeison\source\repos\EjerciciosC\Ejercicio 3 - 78\bin\Debug\Ejercicio 3 - 78.exe
+C:\Users\Yeison\source\repos\EjerciciosC\Ejercicio 3 - 78\bin\Debug\Ejercicio 3 - 78.pdb
+C:\Users\Yeison\source\repos\EjerciciosC\Ejercicio 3 - 78\obj\Debug\Ejercicio 3 - 78.csproj.CoreCompileInputs.cache
+C:\Users\Yeison\source\repos\EjerciciosC\Ejercicio 3 - 78\obj\Debug\Ejercicio 3 - 78.exe
+C:\Users\Yeison\source\repos\EjerciciosC\Ejercicio 3 - 78\obj\Debug\Ejercicio 3 - 78.pdb
