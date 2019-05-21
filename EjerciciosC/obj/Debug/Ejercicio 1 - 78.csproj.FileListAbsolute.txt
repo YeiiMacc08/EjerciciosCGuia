@@ -1,0 +1,7 @@
+C:\Users\Yeison\source\repos\EjerciciosC\EjerciciosC\bin\Debug\EjerciciosC.exe.config
+C:\Users\Yeison\source\repos\EjerciciosC\EjerciciosC\bin\Debug\EjerciciosC.exe
+C:\Users\Yeison\source\repos\EjerciciosC\EjerciciosC\bin\Debug\EjerciciosC.pdb
+C:\Users\Yeison\source\repos\EjerciciosC\EjerciciosC\obj\Debug\Ejercicio 1 - 78.csprojAssemblyReference.cache
+C:\Users\Yeison\source\repos\EjerciciosC\EjerciciosC\obj\Debug\Ejercicio 1 - 78.csproj.CoreCompileInputs.cache
+C:\Users\Yeison\source\repos\EjerciciosC\EjerciciosC\obj\Debug\EjerciciosC.exe
+C:\Users\Yeison\source\repos\EjerciciosC\EjerciciosC\obj\Debug\EjerciciosC.pdb
