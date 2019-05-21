@@ -1,0 +1,2 @@
+C:\Users\Yeison\source\repos\EjerciciosC\Ejercicio 1 - 98\obj\Debug\Ejercicio 1 - 98.csproj.CoreCompileInputs.cache
+C:\Users\Yeison\source\repos\EjerciciosC\Ejercicio 1 - 98\obj\Debug\Ejercicio 1 - 98.csprojAssemblyReference.cache
